@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "253ad7ccee0400a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f79a3ffe9ed1be15",
+        "type": "tabs",
+        "dimension": 40.11741682974559,
+        "children": [
+          {
+            "id": "f6dfc80474459a8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian City.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian City"
+            }
+          },
+          {
+            "id": "0117e530679ee304",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a6f55c575fa671be",
+        "type": "tabs",
+        "dimension": 59.8825831702544,
+        "children": [
+          {
+            "id": "8a2abfac4cdc23d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Koromaru Industries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Koromaru Industries"
+            }
+          },
+          {
+            "id": "d4a946113a4615f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El proyecto Black hole.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "El proyecto Black hole"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74529250984d99cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "86864042f00dddc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ec3b7c2975c3219",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa588eaef54e83e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ebd4a6214d81085",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "13e719f4c30a05d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "32d2361f664800d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e8cadcaa5b79ebb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Koromaru Industries.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Koromaru Industries"
+            }
+          },
+          {
+            "id": "18d23fd1c3e6dd79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Koromaru Industries.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Koromaru Industries"
+            }
+          },
+          {
+            "id": "023f6528c6dcfabf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b21fb701e691858",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Koromaru Industries.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Koromaru Industries"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8a2abfac4cdc23d3",
+  "lastOpenFiles": [
+    "El proyecto Black hole.md",
+    "ObsidianCity",
+    "Obsidian City.md",
+    "Koromaru Industries.md",
+    "BlueMoonCore.md",
+    "NuevaAmerica.md",
+    "RedCore.md",
+    "JadeCore.md",
+    "El White Hole.md",
+    "El White hole.md",
+    "Dist_Ota.md",
+    "mapa/mapa.xcf",
+    "mapa/mapa2.jpeg",
+    "mapa/mapa - copia.jpeg",
+    "mapa/mapa.jpeg",
+    "mapa/maa.jpeg",
+    "mapa/mapa2 - copia.jpeg",
+    "Suguinami.md",
+    "mapa",
+    "mapa2.jpeg.opdownload",
+    "mapa.jpeg.opdownload",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
