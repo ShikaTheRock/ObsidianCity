@@ -9,4 +9,3 @@ En el año 45 (2070), toma control de [[NuevaAmerica]] con [[Koromaru-san]] al c
 
 En el 75 (2100) Muere [[Koromaru-san]] dejando al cargo a [[Shinji Kioi]], Quien en honor, no al pasado de su padre, sino al futuro que vendra con su nuevo mandato, cambia el nombre de la empresa a [[Ky0i]]
 
-a

@@ -2,7 +2,7 @@
 Creado en 2025 por China, Es una IA diseñada para competir con el [[BlueMoonCore]], Tiene dos modulos primos:
 
 - El [[BlueMoonCore]], la version Original
-- El [[RedCore]], la version china del [[BlueMoonCore]]
+- El [[RedCore]], la version rusa del [[BlueMoonCore]]
 
 El [[BlueMoonCore]], ofrecio servicio del año 5 al 75 (2030-2100)
 

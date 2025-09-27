@@ -6,7 +6,7 @@
       {
         "id": "f79a3ffe9ed1be15",
         "type": "tabs",
-        "dimension": 40.11741682974559,
+        "dimension": 47.4559686888454,
         "children": [
           {
             "id": "f6dfc80474459a8b",
@@ -38,7 +38,7 @@
       {
         "id": "a6f55c575fa671be",
         "type": "tabs",
-        "dimension": 59.8825831702544,
+        "dimension": 52.544031311154605,
         "children": [
           {
             "id": "8a2abfac4cdc23d3",
@@ -68,7 +68,8 @@
               "title": "El proyecto Black hole"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Koromaru Industries.md",
+                "file": "El proyecto Black hole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Koromaru Industries"
+              "title": "Backlinks for El proyecto Black hole"
             }
           },
           {
@@ -160,12 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Koromaru Industries.md",
+                "file": "El proyecto Black hole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Koromaru Industries"
+              "title": "Outgoing links from El proyecto Black hole"
             }
           },
           {
@@ -189,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Koromaru Industries.md",
+                "file": "El proyecto Black hole.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Koromaru Industries"
+              "title": "Outline of El proyecto Black hole"
             }
           }
         ]
@@ -216,16 +217,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "8a2abfac4cdc23d3",
+  "active": "d4a946113a4615f5",
   "lastOpenFiles": [
-    "El proyecto Black hole.md",
-    "ObsidianCity",
     "Obsidian City.md",
     "Koromaru Industries.md",
-    "BlueMoonCore.md",
-    "NuevaAmerica.md",
+    "El proyecto Black hole.md",
     "RedCore.md",
     "JadeCore.md",
+    "ObsidianCity",
+    "BlueMoonCore.md",
+    "NuevaAmerica.md",
     "El White Hole.md",
     "El White hole.md",
     "Dist_Ota.md",
