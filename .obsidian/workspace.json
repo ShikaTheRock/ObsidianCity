@@ -4,31 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "f79a3ffe9ed1be15",
-        "type": "tabs",
+        "id": "5013f87296665c00",
+        "type": "split",
+        "dimension": 47.162426614481404,
         "children": [
           {
-            "id": "f6dfc80474459a8b",
+            "id": "f79a3ffe9ed1be15",
+            "type": "tabs",
+            "dimension": 43.08093994778068,
+            "children": [
+              {
+                "id": "0117e530679ee304",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a7be7fcc61d85c16",
+            "type": "tabs",
+            "dimension": 56.919060052219315,
+            "children": [
+              {
+                "id": "f6dfc80474459a8b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian City.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Obsidian City"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "5077112ebc02a0b7",
+        "type": "tabs",
+        "dimension": 52.83757338551859,
+        "children": [
+          {
+            "id": "9232ad0de524fe33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian City.md",
+                "file": "Jhon Anderson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian City"
+              "title": "Jhon Anderson"
             }
           },
           {
-            "id": "0117e530679ee304",
+            "id": "cf8ab484d207f63b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Koromaru Industries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Koromaru Industries"
             }
           }
         ],
@@ -89,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "13e719f4c30a05d0",
@@ -177,15 +228,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "0117e530679ee304",
+  "active": "cf8ab484d207f63b",
   "lastOpenFiles": [
+    "Jhon Anderson.md",
+    "Union EuropeoAtlantica.md",
+    "Obsidian City.md",
+    "BlueMoonCore.md",
     "Koromaru Industries.md",
     "El proyecto Black hole.md",
-    "Obsidian City.md",
     "RedCore.md",
     "JadeCore.md",
     "ObsidianCity",
-    "BlueMoonCore.md",
     "NuevaAmerica.md",
     "El White Hole.md",
     "El White hole.md",

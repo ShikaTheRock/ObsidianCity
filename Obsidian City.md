@@ -31,7 +31,7 @@ Obsidian city, la ciudad de los sueños... Realmente fue asi en algun momento?
 - **Año 2050** -> Los Tatsu, robots controlados por el blue moon empiezan a hacer los trabajos que nadie queria, pero se quedan con muchos empleos, y el descontento se hace muy grande. El BlueMoonCore es practicamente el presidente de EEUU, ya que el presidente sigue todos los consejos que este le da.
 - **Año 2065** -> Se crea la [[Union EuropeoAtlantica]], destinada a unificar de manera definitiva a los paises del oeste europeo y al continente americano
 -  **Koromaru** Industries, compra 10 estados de EEUU asegurandose un puesto en la mesa de presidentes
-- El presidente general (Americano), desodece al BMC y le declara la guerra a [[Ky0i]], el pais que Koromaru habia creado con los ex-terrenos estadounidenses.
+- El presidente general ([[Jhon Anderson]]), desodece al BMC y le declara la guerra a [[Ky0i]], el pais que Koromaru habia creado con los ex-terrenos estadounidenses.
 - Inicia [[La primera guerra corpo]]
 - **Año 2070** Koromaru Industries se hace cargo de [[NuevaAmerica]], el presidente es Koromaru a sus 75 años
 - Año 2100 -> Bajo la busqueda de un nuevo escalafon, los grandes continentes se reunen bajo la idea de unificar las grandes creaciones del ya difunto [[Koromaru-san]], Bajo el nuevo mandato de [[Shinji Kioi]], su hijo y ante el 80 aniversario de la compañia, Koromaru Industries se cambia el nombre a [[Ky0i]], y se inicia [[El proyecto Black hole]], que busca juntar todas las IAs derivadas del BlueMoonCore
