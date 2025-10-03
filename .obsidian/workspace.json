@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5013f87296665c00",
+        "id": "b4859204db3cb87a",
         "type": "split",
-        "dimension": 47.162426614481404,
+        "dimension": 38.50267379679144,
         "children": [
           {
             "id": "f79a3ffe9ed1be15",
             "type": "tabs",
-            "dimension": 43.08093994778068,
+            "dimension": 73.89033942558747,
             "children": [
               {
                 "id": "0117e530679ee304",
@@ -26,12 +26,12 @@
             ]
           },
           {
-            "id": "a7be7fcc61d85c16",
+            "id": "3b70cfe03092d391",
             "type": "tabs",
-            "dimension": 56.919060052219315,
+            "dimension": 26.109660574412537,
             "children": [
               {
-                "id": "f6dfc80474459a8b",
+                "id": "f162895276797f0c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -52,34 +52,34 @@
       {
         "id": "5077112ebc02a0b7",
         "type": "tabs",
-        "dimension": 52.83757338551859,
+        "dimension": 61.49732620320856,
         "children": [
-          {
-            "id": "9232ad0de524fe33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jhon Anderson.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jhon Anderson"
-            }
-          },
           {
             "id": "cf8ab484d207f63b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Koromaru Industries.md",
+                "file": "Ky0i.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Koromaru Industries"
+              "title": "Ky0i"
+            }
+          },
+          {
+            "id": "ae1ef2e232330c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ky0i.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ky0i"
             }
           }
         ],
@@ -228,32 +228,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "cf8ab484d207f63b",
+  "active": "0117e530679ee304",
   "lastOpenFiles": [
-    "Jhon Anderson.md",
-    "Union EuropeoAtlantica.md",
     "Obsidian City.md",
-    "BlueMoonCore.md",
-    "Koromaru Industries.md",
-    "El proyecto Black hole.md",
-    "RedCore.md",
-    "JadeCore.md",
-    "ObsidianCity",
-    "NuevaAmerica.md",
-    "El White Hole.md",
-    "El White hole.md",
-    "Dist_Ota.md",
-    "mapa/mapa.xcf",
-    "mapa/mapa2.jpeg",
-    "mapa/mapa - copia.jpeg",
     "mapa/mapa.jpeg",
+    "mapa/mapa2.jpeg",
+    "AlphaTatsu.md",
+    "Sigma.md",
+    "La supraNet.md",
+    "The Nanites.md",
+    "El gobierno central.md",
+    "DeltaTatsu.md",
+    "Ky0i.md",
+    "Los hermanos.md",
+    "Los arquitectos.md",
+    "DecayOfAngels.md",
+    "Requiem Militaris.md",
+    "Kazuma Kioi.md",
+    "JetGov.md",
+    "Ky0iCorp.md",
+    "Los 4 muros.md",
+    "Tatsu.md",
+    "La luna.md",
+    "SigmaTatsu.md",
+    "Delta.md",
+    "El white hole.md",
+    "La primera guerra corpo.md",
+    "Dist_Wastes.md",
+    "Dist_Ota.md",
+    "Dist_Old.md",
+    "ObsidianCity",
+    "mapa/mapa.xcf",
+    "mapa/mapa - copia.jpeg",
     "mapa/maa.jpeg",
     "mapa/mapa2 - copia.jpeg",
-    "Suguinami.md",
     "mapa",
     "mapa2.jpeg.opdownload",
-    "mapa.jpeg.opdownload",
-    "create a link.md",
-    "Welcome.md"
+    "mapa.jpeg.opdownload"
   ]
 }

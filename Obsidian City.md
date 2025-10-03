@@ -45,7 +45,7 @@ Obsidian city, la ciudad de los sueños... Realmente fue asi en algun momento?
 
 ## Historia
 
-Año 150 (2170), Hace ya años del fin de [[La guerra de las maquinas]], Los [[Tatsu]] ya empizan a integrarse a niveles minimos gracias a [[The Nanites]] la banda que controla el distrito de central. incluso y hace unos años que se abrio el muro que los separaba del resto de nosotros. De [[Los 4 muros]] de la ciudad solo quedan 3, seguro que en menos de 10 años explotan alguna nulcear contra [[El muro Norte]]
+Año 150 (2175), Hace ya años del fin de [[La guerra de las maquinas]], Los [[Tatsu]] ya empizan a integrarse a niveles minimos gracias a [[The Nanites]] la banda que controla el distrito de central. incluso y hace unos años que se abrio el muro que los separaba del resto de nosotros. De [[Los 4 muros]] de la ciudad solo quedan 3, seguro que en menos de 10 años explotan alguna nulcear contra [[El muro Norte]]
 
 
 

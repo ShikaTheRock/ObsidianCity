@@ -1,4 +1,4 @@
-Fundada por [[Koromaru-san]] y unos colegas de la universidad
+-Fundada por [[Koromaru-san]] y unos colegas de la universidad
 Creadora del [[BlueMoonCore]], y de los [[Tatsu]], Principales Responsables de [[El proyecto Black hole]], mas no de su fallo
 
 La empresa mas rica del mundo desde el año 25 al 75 (2050-2100)
