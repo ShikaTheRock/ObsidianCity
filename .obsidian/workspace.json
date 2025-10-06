@@ -4,50 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "b4859204db3cb87a",
-        "type": "split",
+        "id": "f79a3ffe9ed1be15",
+        "type": "tabs",
         "dimension": 38.50267379679144,
         "children": [
           {
-            "id": "f79a3ffe9ed1be15",
-            "type": "tabs",
-            "dimension": 73.89033942558747,
-            "children": [
-              {
-                "id": "0117e530679ee304",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
+            "id": "c27d6b64be2c245a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           },
           {
-            "id": "3b70cfe03092d391",
-            "type": "tabs",
-            "dimension": 26.109660574412537,
-            "children": [
-              {
-                "id": "f162895276797f0c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Obsidian City.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Obsidian City"
-                }
-              }
-            ]
+            "id": "de51db4e72008ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian City.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian City"
+            }
+          },
+          {
+            "id": "0117e530679ee304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LoreEvents/El proyecto Black hole.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "El proyecto Black hole"
+            }
+          },
+          {
+            "id": "f162895276797f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian City.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian City"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       },
       {
         "id": "5077112ebc02a0b7",
@@ -55,35 +69,34 @@
         "dimension": 61.49732620320856,
         "children": [
           {
-            "id": "cf8ab484d207f63b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ky0i.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ky0i"
-            }
-          },
-          {
             "id": "ae1ef2e232330c39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ky0i.md",
+                "file": "Cores/El white hole.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ky0i"
+              "title": "El white hole"
+            }
+          },
+          {
+            "id": "a84f88639d25c9b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cores/El black hole.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "El black hole"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -228,42 +241,49 @@
       "bases:Create new base": false
     }
   },
-  "active": "0117e530679ee304",
+  "active": "ae1ef2e232330c39",
   "lastOpenFiles": [
     "Obsidian City.md",
-    "mapa/mapa.jpeg",
-    "mapa/mapa2.jpeg",
-    "AlphaTatsu.md",
-    "Sigma.md",
-    "La supraNet.md",
-    "The Nanites.md",
-    "El gobierno central.md",
-    "DeltaTatsu.md",
-    "Ky0i.md",
-    "Los hermanos.md",
-    "Los arquitectos.md",
-    "DecayOfAngels.md",
-    "Requiem Militaris.md",
+    "Cores/El white hole.md",
+    "LoreOrganizations/DeltaTatsu.md",
+    "LoreEvents/El proyecto Black hole.md",
+    "LoreOrganizations/Koromaru Industries.md",
+    "LoreOrganizations/Ky0i.md",
+    "LoreCharacters/Shinji Kioi.md",
+    "Cores/El black hole.md",
+    "LoreEvents/La guerra de las maquinas.md",
+    "LoreLocations/La luna.md",
+    "LoreOrganizations/Los hermanos.md",
+    "WB_Organizations/Dist_Gangs/Requiem Militaris.md",
+    "LoreEvents/La primera guerra corpo.md",
+    "WB_Organizations/Dist_Gangs/DecayOfAngels.md",
+    "Shinobu Kioi.md",
     "Kazuma Kioi.md",
-    "JetGov.md",
-    "Ky0iCorp.md",
     "Los 4 muros.md",
-    "Tatsu.md",
-    "La luna.md",
-    "SigmaTatsu.md",
-    "Delta.md",
-    "El white hole.md",
-    "La primera guerra corpo.md",
-    "Dist_Wastes.md",
-    "Dist_Ota.md",
-    "Dist_Old.md",
+    "La supraNet.md",
+    "WB_Organizations/Dist_Gangs/The Nanites.md",
+    "WB_Organizations/Dist_Gangs/Tatsu.md",
+    "WB_Organizations/Dist_Gangs/Los arquitectos.md",
+    "WB_Organizations/Dist_Gangs/Ky0iCorp.md",
+    "WB_Organizations/Dist_Gangs/JetGov.md",
+    "WB_Distritos/Dist_Wastes.md",
+    "WB_Distritos/Dist_Suguinami.md",
+    "WB_Distritos/Dist_Setagaya.md",
+    "WB_Distritos/North",
+    "WB_Organizations/Dist_Gangs",
+    "WB_Organizations",
+    "Untitled.canvas",
+    "LoreEvents",
+    "LoreCharacters",
+    "LoreOrganizations",
+    "LoreLocations",
+    "Cores",
+    "WB_Distritos",
+    "0_mapa/mapa.jpeg",
+    "0_mapa/mapa2.jpeg",
     "ObsidianCity",
-    "mapa/mapa.xcf",
     "mapa/mapa - copia.jpeg",
     "mapa/maa.jpeg",
-    "mapa/mapa2 - copia.jpeg",
-    "mapa",
-    "mapa2.jpeg.opdownload",
-    "mapa.jpeg.opdownload"
+    "mapa/mapa2 - copia.jpeg"
   ]
 }

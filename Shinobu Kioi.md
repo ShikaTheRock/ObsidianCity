@@ -1,3 +1,1 @@
-Los mellizos hijos de [[Shinji Kioi]]
-[[Shinobu Kioi]]
-[[Kazuma Kioi]]
+La hija de [[Shinji Kioi]]
