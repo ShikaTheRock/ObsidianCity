@@ -6,7 +6,6 @@
       {
         "id": "f79a3ffe9ed1be15",
         "type": "tabs",
-        "dimension": 38.50267379679144,
         "children": [
           {
             "id": "c27d6b64be2c245a",
@@ -16,34 +15,6 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "de51db4e72008ac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian City.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian City"
-            }
-          },
-          {
-            "id": "0117e530679ee304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LoreEvents/El proyecto Black hole.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "El proyecto Black hole"
             }
           },
           {
@@ -64,36 +35,21 @@
         "currentTab": 1
       },
       {
-        "id": "5077112ebc02a0b7",
+        "id": "b5aa595b637915e7",
         "type": "tabs",
-        "dimension": 61.49732620320856,
         "children": [
           {
-            "id": "ae1ef2e232330c39",
+            "id": "58381ee39ff78dba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cores/El white hole.md",
+                "file": "LoreEvents/La guerra de las maquinas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El white hole"
-            }
-          },
-          {
-            "id": "a84f88639d25c9b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cores/El black hole.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "El black hole"
+              "title": "La guerra de las maquinas"
             }
           }
         ]
@@ -241,16 +197,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "ae1ef2e232330c39",
+  "active": "58381ee39ff78dba",
   "lastOpenFiles": [
-    "Obsidian City.md",
-    "Cores/El white hole.md",
-    "LoreOrganizations/DeltaTatsu.md",
     "LoreEvents/El proyecto Black hole.md",
+    "LoreCharacters/Shinji Kioi.md",
+    "LoreCharacters/Koromaru-san.md",
+    "LoreCharacters/Jhon Anderson.md",
+    "Cores/BlueMoonCore.md",
+    "Cores/JadeCore.md",
+    "Cores/RedCore.md",
+    "Cores/El white hole.md",
+    "Cores/El black hole.md",
+    "WB_Organizations/Dist_Gangs/The Nanites.md",
+    "Obsidian City.md",
+    "LoreOrganizations/DeltaTatsu.md",
     "LoreOrganizations/Koromaru Industries.md",
     "LoreOrganizations/Ky0i.md",
-    "LoreCharacters/Shinji Kioi.md",
-    "Cores/El black hole.md",
     "LoreEvents/La guerra de las maquinas.md",
     "LoreLocations/La luna.md",
     "LoreOrganizations/Los hermanos.md",
@@ -261,14 +223,8 @@
     "Kazuma Kioi.md",
     "Los 4 muros.md",
     "La supraNet.md",
-    "WB_Organizations/Dist_Gangs/The Nanites.md",
     "WB_Organizations/Dist_Gangs/Tatsu.md",
     "WB_Organizations/Dist_Gangs/Los arquitectos.md",
-    "WB_Organizations/Dist_Gangs/Ky0iCorp.md",
-    "WB_Organizations/Dist_Gangs/JetGov.md",
-    "WB_Distritos/Dist_Wastes.md",
-    "WB_Distritos/Dist_Suguinami.md",
-    "WB_Distritos/Dist_Setagaya.md",
     "WB_Distritos/North",
     "WB_Organizations/Dist_Gangs",
     "WB_Organizations",
